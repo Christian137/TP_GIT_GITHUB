@@ -1,1 +1,1 @@
-Mon projet : Conception d'une données SQL pour une simple gestion des stocks.
+Mon projet : Conception d'une base de donnÃ©es SQL pour une simple gestion des stocks.
