@@ -32,6 +32,19 @@ CREATE TABLE `tbarticle` (
 
 /*Data for the table `tbarticle` */
 
+/*Table structure for table `tbdepot` */
+
+DROP TABLE IF EXISTS `tbdepot`;
+
+CREATE TABLE `tbdepot` (
+  `coddep` int(11) NOT NULL COMMENT 'code du dépot',
+  `nomdep` varchar(15) NOT NULL COMMENT 'nom du dépot',
+  PRIMARY KEY (`coddep`),
+  UNIQUE KEY `NewIndex1` (`nomdep`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+/*Data for the table `tbdepot` */
+
 /*Table structure for table `tbfamille` */
 
 DROP TABLE IF EXISTS `tbfamille`;
