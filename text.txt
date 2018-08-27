@@ -1,12 +1,2 @@
-help register
-Q:
-
-
-
-
-hgh
-g
-t
-y
-o
-
+Bonjour Je vais travailler sur linux
+je vais travailler sur un editeur de texte.
